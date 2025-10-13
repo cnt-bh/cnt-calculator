@@ -9,7 +9,7 @@
 
 ## How to Use
 1. Open the live page:  
-   [https://cnt-bh.github.io/cnt-calc/](https://cnt-bh.github.io/cnt-calc/)
+   [https://cnt-bh.github.io/cnt-calculator/](https://cnt-bh.github.io/cnt-calculator/)
 2. Use directly in your browser – works offline once loaded.
 3. On iPad/iPhone: open in Safari → **Share → Add to Home Screen** for app-like use.
 4. On desktop Chrome/Edge: use **Install as app** for a standalone window.
